@@ -1,0 +1,13 @@
+*{
+  background-color: #C6DEFF;
+}
+p{color:green;}
+h1{color:turquoise;}
+h4{color: pink;}
+
+.background {
+  background-color: green;
+}
+.link {
+  color: orange;
+}
